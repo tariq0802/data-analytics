@@ -1,0 +1,61 @@
+,Flat no,Wing,Owner Name,Owner's Spouse Name,No of Resident,Confirmed Members,Origin of Owner,Flat Area (sq.mt),No of Room,Tenant or owner,Maintenance Amt,Availlability of owner,Flat Vacancy,Donation
+0,101,A,Omkar,-,4,4,Maharashtra,500,2,Owner,6000,Yes,Owned,2500
+1,102,A,Bhavana,-,5,6,Bangalore,500,2,Owner,6000,Yes,Owned,10000
+2,103,A,Govind,-,5,3,Rajasthan,500,2,Owner,6000,Yes,Owned,1500
+3,201,A,Reena,-,4,2,Madhya Pradesh,550,2,Tenant,6000,No,Owned,
+4,202,A,Karishma,-,7,15,Gujurat,600,3,Owner,7000,No,Owned,2500
+5,203,A,Ragesh,-,4,4,Kerala,500,2,Tenant,5500,No,Owned,5000
+6,301,A,Harshad,Parul,8,8,Gujurat,550,2,Owner,6000,Yes,Owned,5000
+7,302,A,Abdul,,4,4,Maharashtra,600,3,Owner,7000,Yes,Vacant,
+8,303,A,Lohit,-,5,2,Bangalore,500,2,Owner,-,-,-,1000
+9,401,A,Vijay,,5,3,Rajasthan,550,2,Tenant,,No,,10000
+10,402,A,Bhavana,,4,2,Madhya Pradesh,600,3,Tenant,7000,No,Vacant,2500
+11,403,A,Govind,,7,20,Gujarat,500,2,Owner,,No,Vacant,6000
+12,501,A,Reena,,4,4,Kerala,550,2,Owner,,Yes,,2500
+13,502,A,Karishma,,8,8,Gujarat,600,3,Tenant,7000,Yes,Owned,2500
+14,503,A,Ragesh,,-,-,Maharashtra,600,3,Owner,7000,Yes,Vacant,10000
+15,601,A,Harshad,,3,2,Tamil Nadu,600,3,Owner,7000,No,Vacant,1500
+16,602,A,Praveen,,6,4,Karnataka,600,3,Owner,7000,No,Vacant,
+17,603,A,Arjun,,4,2,Maharashtra,600,3,Tenant,7000,No,Vacant,1500
+18,701,A,Priya,,5,4,Uttar Pradesh,550,2,Owner,,No,,1000
+19,702,A,Ravi,Shashi,3,2,Karnataka,550,2,Owner,,Yes,Owned,5000
+20,703,A,Deepak,,-,-,Maharashtra,500,2,Owner,,No,,
+21,801,A,Nandini,,4,3,Delhi,500,2,Tenant,,Yes,Vacant,1500
+22,802,A,Nisha,,5,4,Haryana,500,2,Owner,,No,Owned,1500
+23,803,A,Sunil,Sneha,4,3,Maharashtra,500,2,Owner,,No,Owned,2500
+24,901,A,Priyanka,,3,2,Rajasthan,550,2,Tenant,,No,Vacant,6000
+25,902,A,Rahul,,-,-,Maharashtra,600,3,Owner,7000,No,Owned,10000
+26,903,A,Anjali,,5,3,Uttar Pradesh,600,3,Tenant,7000,Yes,Owned,10000
+27,1001,A,Aman,,4,2,Madhya Pradesh,600,3,Owner,7000,Yes,,5000
+28,1002,A,alok,,3,1,Maharashtra,600,3,Tenant,7000,Yes,Owned,1000
+29,1003,A,Pooja,,2,2,Punjab,600,3,tenant,7000,No,,1500
+30,101,B,Anil,,2,2,Punjab,550,2,owner,,No,Owned,6000
+31,102,B,Simran,,5,11,Andhra Pradesh,600,3,owner,7000,Yes,Vacant,5000
+32,103,B,mayuri,,4,3,Kerala,500,2,owner,,Yes,,2500
+33,201,B,Naveen,Nisha,3,2,Tamil Nadu,500,2,owner,,Yes,,1500
+34,202,B,Anju,Raghav,2,1,Delhi,500,2,tenant,,Yes,,2500
+35,203,B,Vivek,,3,3,Maharashtra,500,2,tenant,,Yes,Owned,1000
+36,301,B,Priyanka,Vimesh,4,3,Haryana,550,2,owner,,No,Vacant,1500
+37,302,B,tanmay,,5,4,Maharashtra,600,3,owner,7000,Yes,Owned,1000
+38,303,B,Rohit,,3,2,Gujarat,500,2,owner,,No,Vacant,2500
+39,401,B,Ankita,,2,2,Rajasthan,550,2,tenant,,No,,1000
+40,402,B,Suresh,,5,9,Maharashtra,550,2,owner,,Yes,Vacant,6000
+41,403,B,Pooja,,5,4,Karnataka,550,2,tenant,,Yes,,1500
+42,501,B,omi,,4,3,Madhya Pradesh,550,2,owner,,Yes,Vacant,1500
+43,502,B,Karan,,3,2,Tamil Nadu,600,3,owner,7000,Yes,,2500
+44,503,B,Neha,,2,1,Kerala,500,2,tenant,,No,Vacant,5000
+45,601,B,Sameer,,-,-,-,500,2,owner,,No,,
+46,602,B,shilpa,,4,3,Haryana,600,3,tenant,7000,No,Owned,10000
+47,603,B,Romil,,2,0,Maharashtra,500,2,owner,,Yes,Owned,6000
+48,701,B,Rohit,Chanda,1,0,Kashmir,550,2,tenant,,No,,2500
+49,702,B,Sachin,Deeksha,6,4,Assam,600,3,tenant,7000,No,Vacant,1000
+50,703,B,Amit,,7,7,Punjab,500,2,tenant,,No,Vacant,10000
+51,801,B,abdul,,5,4,Kerala,600,3,owner,7000,Yes,Owned,2500
+52,802,B,Gaurav,Ekta,4,4,Tamil Nadu,600,3,tenant,7000,Yes,,10000
+53,803,B,Ashish,Anjali,3,5,Delhi,600,3,tenant,7000,Yes,Vacant,10000
+54,901,B,Lokesh,,2,3,Maharashtra,550,2,owner,,No,Vacant,1000
+55,902,B,Mahesh,,3,1,Haryana,600,3,owner,7000,No,,5000
+56,903,B,yash,,4,4,Maharashtra,600,3,tenant,7000,No,Vacant,10000
+57,1001,B,rasika,,5,2,Kerala,500,2,owner,,Yes,,1000
+58,1002,B,Shivam,,3,2,Rajasthan,600,3,tenant,7000,Yes,Owned,6000
+59,1003,B,Vikas,Suman,3,6,Maharashtra,600,3,owner,7000,No,Owned,2500
